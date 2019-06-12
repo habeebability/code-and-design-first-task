@@ -1,0 +1,62 @@
+.banner img {
+  width: 100%;
+  height: 300px;
+}
+#container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;
+}
+
+#footer {
+    position: absolute;
+    clear: both;
+    position: relative;
+    height: 40px;
+    margin-top: -40px;
+    background-color: rgb(189, 95, 18);
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+.headtext {
+  text-align: center;
+  }
+  .nav-div {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(189, 95, 18);
+    
+
+  }
+  .no-dec-ul > li a {
+    text-decoration: none;
+    float: right;
+    color: white;
+    margin-right: 20px;
+    padding: 10px;
+  }
+  .no-dec-ul > li {
+    list-style-type: none;
+    display: inline;
+    font-size: 25px;
+  }
+
+.image1-col{
+  float: left;
+  width: 35%;
+  height: auto;
+  padding: 60px;
+  margin-right: 15px;
+}
+
+.image2-col{
+  float: right;
+  width: 35%;
+  height: auto;
+  padding: 60px;
+  margin-left: 15px;
+}
